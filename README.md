@@ -1,4 +1,4 @@
-## Hi there 👋
+## Happy for your visit! 👋
 
 <!--
 **aspxedev/aspxedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Antonio, a Software Engineer based in the United States.
+I focused on **backend development and system design**, with some frontend experience when needed.
+
+At the moment, I'm working on a data ingestion system for a food manufactoring company.
+
+## Tech Stack
+
+* FastAPI
+* PostgreSQL
+* Docker
+* AWS certified✅
+
+## About me
+
+* ☕ Coffee lover (2 cups a day)
+* 🐈 Cat person
+* 🎨 Hobbies: clay sculpture & swimming
