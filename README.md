@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Antonio, a Software Engineer based in the United States.
 I focused on **backend development and system design**, with some frontend experience when needed.
 
-At the moment, I'm working on a data ingestion system for a food manufactoring company.
+At the moment, I'm working on a SaaS for freelancers, contractors and startups!
 
 ## Tech Stack
 
